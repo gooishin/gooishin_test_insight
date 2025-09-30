@@ -1,0 +1,25 @@
+title: Intel Edge Developer Kit Reference Scripts
+description: Reference scripts and examples for Intel Edge Developer Kit
+baseurl: "/edge-developer-kit-reference-scripts"
+url: "https://intel.github.io"
+
+# Google Analytics
+google_analytics: G-XXXXXXXXXX  # Replace with your actual ID
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Collections
+collections:
+  scripts:
+    output: true
+    permalink: /:collection/:name/
