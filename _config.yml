@@ -1,10 +1,10 @@
 title: Intel Edge Developer Kit Reference Scripts
 description: Reference scripts and examples for Intel Edge Developer Kit
-baseurl: "/edge-developer-kit-reference-scripts"
+baseurl: "/gooishin_test_insight"
 url: "https://intel.github.io"
 
 # Google Analytics
-google_analytics: G-XXXXXXXXXX  # Replace with your actual ID
+google_analytics: G-TWKE3FPZH4  # Replace with your actual ID
 
 # Theme
 theme: minima
