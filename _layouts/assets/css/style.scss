@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles */
+.container-lg {
+  max-width: 1012px;
+  margin: 0 auto;
+}
+
+header {
+  border-bottom: 1px solid #e1e4e8;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
+
+footer {
+  border-top: 1px solid #e1e4e8;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  text-align: center;
+}
